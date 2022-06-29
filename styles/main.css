@@ -112,7 +112,7 @@ a:hover {
 }
 
 .hero-princ-content.text .title::after {
-  content: "(MistyBlunch)";
+  content: "(EdgardPachper)";
   font-size: 25px;
   font-family: var(--schoolbell);
 }
