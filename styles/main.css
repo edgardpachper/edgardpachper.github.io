@@ -145,8 +145,8 @@ a:hover {
 .menu li {
   margin: 0.2rem;
   font-weight: bold;
-  margin-top: -4rem;
-  margin-bottom: -3em;
+  margin-top: -3rem;
+  margin-bottom: 0.2em;
 }
 
 /**************************************************************************************************/
