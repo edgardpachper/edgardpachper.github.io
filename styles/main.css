@@ -39,6 +39,18 @@ a {
   font-weight: bold;
 }
 
+a.rss {
+  text-decoration: none;
+  color: #c7c9cb;
+  font-weight: normal;
+}
+
+a.rss:hover {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+}
+
 a:hover {
   color: var(--grandmapink);
   text-decoration: underline;
